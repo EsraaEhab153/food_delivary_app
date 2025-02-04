@@ -19,32 +19,32 @@ ThemeData darkMode = ThemeData(
   textTheme: const TextTheme(
     titleLarge: TextStyle(
       color: Colors.white,
-      fontSize: 30,
+      fontSize: 25,
       fontWeight: FontWeight.bold,
     ),
     titleMedium: TextStyle(
       color: Colors.white,
-      fontSize: 27,
+      fontSize: 23,
       fontWeight: FontWeight.bold,
     ),
     titleSmall: TextStyle(
       color: Colors.black,
-      fontSize: 25,
+      fontSize: 20,
       fontWeight: FontWeight.bold,
     ),
     bodyLarge: TextStyle(
       color: Colors.white,
-      fontSize: 25,
+      fontSize: 17,
       fontWeight: FontWeight.w500,
     ),
     bodyMedium: TextStyle(
       color: Colors.white,
-      fontSize: 23,
+      fontSize: 14,
       fontWeight: FontWeight.w500,
     ),
     bodySmall: TextStyle(
       color: Colors.white,
-      fontSize: 20,
+      fontSize: 12,
       fontWeight: FontWeight.w500,
     ),
   ),
